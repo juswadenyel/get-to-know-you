@@ -11,7 +11,7 @@ var steps=[
 {t:"chips",emoji:"🙄",key:"Turn-offs",title:"What’s an instant “ugh”?",sub:"Tap whatever annoys you.",opts:["⏰ Being late","🐢 Slow replies","👂 Loud chewing","🚫 Crowds","🌶️ Super spicy food","👻 Horror movies","🥶 Cold weather","🧹 Messy places","📵 Dry texting"]},
 {t:"text",emoji:"💭",key:"Anything else that annoys her",title:"Anything else that bugs you?",ph:"Spill it…",area:1},
 {t:"text",emoji:"🌟",key:"Something she wants to try",title:"Last one! What have you been wanting to try?",sub:"A place, a food, an activity, a dream trip…",ph:"I’ve always wanted to…",area:1},
-{t:"end"}
+{t:"end",emoji:"💌"}
 ];
 
 var A={}, i=0;
